@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         mos = new ArrayList<>();
         requestQueue = Volley.newRequestQueue(this);
         getMos();
+        boolean b = false;
 
     }
 
